@@ -6,3 +6,6 @@ A JVM Bytecode and JIT hook library.
 > **R:** Currently it is made for Java 8.
 
 ##### For any other questions, open a issue.
+
+# How to Use
+> Currently in progress...
