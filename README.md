@@ -1,9 +1,9 @@
 # Bee Hook
-A JVM Bytecode and JIT hook library.
+A JVM Bytecode instrumentalization library.
 
 # Questions
 ### **1.** What java version it supports?
-> **R:** Currently it is made for the [Hookable Java 8](https://github.com/aotuser/hookable-java-8).
+> **R:** Currently it is made for the [Instrumentalizable Java 8](https://github.com/aotuser/instrumentalizable-java-8).
 
 ##### For any other questions, open a issue.
 
